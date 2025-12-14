@@ -1,0 +1,7 @@
+getgenv()["funnykm"] = {
+    Tuff = {Enabled = true,
+        Methood = "Count" --Count , Second
+},
+credit = "dc : Kdyriz"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MMpokkiebokk/fd/refs/heads/main/Fight%20in%20a%20supper%20market", true))()
