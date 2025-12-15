@@ -4,4 +4,4 @@ getgenv()["funnykm"] = {
 },
 credit = "dc : Kdyriz"
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MMpokkiebokk/fd/refs/heads/main/Fight%20in%20a%20supper%20market", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MMpokkiebokk/fd/refs/heads/main/Build%20A%20Stone%20Miner.lua.txt", true))()
