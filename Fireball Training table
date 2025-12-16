@@ -1,0 +1,2 @@
+getgenv()["funnykm"] = {MultiTool = false, credit == "dc : Kdyriz"}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MMpokkiebokk/fd/refs/heads/main/Fireball%20Training", true))()
